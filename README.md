@@ -23,7 +23,7 @@
 
 ## Deploy To Koyeb
               
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/SudoR2spr/text-leech-bot&branch=heroku&name=textleechbot" >
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/Repo6798/Tiger-text-leech-bot&branch=heroku&name=repo6798" >
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy"></a>
 
 ## Deploy To Render                  
